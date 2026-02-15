@@ -1,3 +1,8 @@
+# v1.0.0 (2026-02-15)
+
+## ✨ New Features
+- [`b3f4d58`](https://github.com/fredrkl/nvimdb-demo/commit/b3f4d58)  Starting on repo
+
 # [v1.3.0](https://github.com/fredrkl/template-base/compare/v1.2.0...v1.3.0) (2025-08-03)
 
 ## ✨ New Features
