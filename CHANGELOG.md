@@ -1,3 +1,8 @@
+# [v1.1.0](https://github.com/fredrkl/nvimdb-demo/compare/v1.0.0...v1.1.0) (2026-02-15)
+
+## ✨ New Features
+- [`665161f`](https://github.com/fredrkl/nvimdb-demo/commit/665161f)  Docker compose on db
+
 # v1.0.0 (2026-02-15)
 
 ## ✨ New Features
